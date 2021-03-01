@@ -1,2 +1,4 @@
 my name is tomato
 i am a vegetable
+i have a red colour
+people can eat me cooked or uncooked
