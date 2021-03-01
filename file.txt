@@ -2,7 +2,6 @@ one
 two
 three
 four
-<<<<<<< Updated upstream
 five
 
 six 
@@ -10,6 +9,3 @@ seven
 eight
 nine
 ten
-=======
-five
->>>>>>> Stashed changes
